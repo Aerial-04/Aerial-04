@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aerial-04
 - 👀 I’m interested in videogames, anime, drawing and programing.
-- 🌱 I’m currently learning how to program in C#.
+- 🌱 I’m currently learning how to program in C# and java.
 - 💞️ I’m looking to collaborate on projects in the future.
 - 📫 How to reach me in twitter and gmail.
 
