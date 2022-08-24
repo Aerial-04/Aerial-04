@@ -8,6 +8,4 @@
 Aerial-04/Aerial-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-![FaGTFI1aQAA_ezS](https://user-images.githubusercontent.com/105311241/186503032-5a5dcdd4-7490-4173-9c19-319e8a9d1366.jpg)
+![naoto chibi cookie](https://user-images.githubusercontent.com/105311241/186503100-8b72b243-70ec-4e1f-861c-3e4d03ea0fd4.jpg)
