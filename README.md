@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aerial-04
+- 👋 Hi, my name is Jonathan or you can call me Aerial.
 - 👀 I’m interested in videogames, anime, drawing and programing.
 - 🌱 I’m currently learning how to program in C# and java.
 - 💞️ I’m looking to collaborate on projects in the future.
