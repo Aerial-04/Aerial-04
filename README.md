@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects in the future.
 - 📫 How to reach me in twitter and gmail.
 https://twitter.com/Aerial044
+
 johnathan.villegas00@gmail.com
 
 <!---
