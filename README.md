@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames, anime, drawing and programing.
 - 🌱 I’m currently learning how to program in C# and java.
 - 💞️ I’m looking to collaborate on projects in the future.
-- 📫 How to reach me in twitter and gmail.
+- 📫 You can reach me in twitter and gmail.
 https://twitter.com/Aerial044, johnathan.villegas00@gmail.com
 
 <!---
