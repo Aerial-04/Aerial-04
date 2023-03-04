@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to program in C# and java.
 - 💞️ I’m looking to collaborate on projects in the future.
 - 📫 You can reach me in twitter and gmail.
-https://twitter.com/Aerial044, johnathan.villegas00@gmail.com
+https://twitter.com/Aerial044
 
 <!---
 Aerial-04/Aerial-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
