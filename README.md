@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Jonathan, you can call me Aerial.
 - 👀 I’m interested in videogames, anime, drawing and programing.
-- 🌱 I’m currently learning how to program in C# and java.
+- 🌱 I’m currently learning how to program in C# and C++.
 - 💞️ I’m looking to collaborate on projects in the future.
 - 📫 You can reach me in twitter and gmail.
 https://twitter.com/Aerial044
